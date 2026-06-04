@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- SEO -->
+  <title>Enhancing Education Intensity for Productive Employment in Ghana</title>
+  <meta name="description" content="Analysis of Ghana’s labour market trends showing rising education levels but declining job quality, with insights on gender disparities and policy solutions.">
+  <meta name="keywords" content="Ghana employment, labour market Ghana, education intensity, job quality, vulnerable employment, gender inequality Ghana, economic policy">
+  <meta name="author" content="Johnson Worlanyo Ahiadorme">
+
+  <!-- Open Graph (Social Sharing) -->
+  <meta property="og:title" content="Enhancing Education Intensity for Productive Employment in Ghana">
+  <meta property="og:description" content="Why increasing education in Ghana is not translating into better jobs.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://jahiadorme.github.io/personal-website/blog.html">
+  <meta property="og:image" content="images/labour-preview.png">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
+      line-height: 1.7;
+      color: #333;
+      background-color: #f9f9f9;
+    }
+
+    h1, h2 {
+      color: #0a2a66;
+    }
+
+    .meta {
+      font-size: 0.9em;
+      color: #777;
+      margin-bottom: 20px;
+    }
+
+    figure {
+      margin: 25px 0;
+    }
+
+    figcaption {
+      font-size: 0.9em;
+      color: #555;
+      text-align: center;
+      margin-top: 5px;
+    }
+
+    img {
+      width: 100%;
+      border-radius: 5px;
+    }
+
+    .highlight {
+      background: #eef4ff;
+      padding: 15px;
+      border-left: 4px solid #0a2a66;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Enhancing Education Intensity for Productive and Quality Employment in Ghana</h1>
+  <p class="meta">Published: August 26, 2025 | By Johnson Worlanyo Ahiadorme</p>
+
+  <p>
+    Ghana's labour force has become more educated, yet this progress is unevenly distributed. 
+    Gains are more pronounced among the unemployed than the employed, while job creation remains 
+    concentrated in low-productivity sectors. Self-employment dominates—especially among women—
+    heightening vulnerability and exposure to poverty.
+  </p>
+
+  <p>
+    This post explores recent labour market trends and what must change to ensure that education 
+    translates into productive and decent employment.
+  </p>
+
+  <!-- Section -->
+  <h2>A More Educated Workforce—But Uneven Gains</h2>
+  <p>
+    Between 2022 and 2024, the share of Ghana’s labour force with at least secondary education 
+    rose from <strong>31.7% to 33.6%</strong>.
+  </p>
+
+  <ul>
+    <li>Unemployed: education increased by <strong>over 5 percentage points</strong></li>
+    <li>Employed: increase was <strong>less than 2 percentage points</strong></li>
+  </ul>
+
+  <p>
+    This suggests that educated individuals are not being absorbed into productive jobs.
+  </p>
+
+  <figure>
+    <img src="images/education-intensity.png" alt="Education intensity of labour force in Ghana">
+    <figcaption>Figure 1: Education Intensity of the Labour Force</figcaption>
+  </figure>
+
+  <!-- Section -->
+  <h2>Declining Quality of Employment</h2>
+  <p>
+    The share of non-vulnerable employment declined from <strong>32.8% in 2022</strong> 
+    to <strong>32.3% in 2024</strong>, indicating a shift toward lower-quality jobs.
+  </p>
+
+  <figure>
+    <img src="images/non-vulnerable.png" alt="Non-vulnerable employment trend">
+    <figcaption>Figure 2: Non-Vulnerable Employment</figcaption>
+  </figure>
+
+  <p>Sectoral distribution shows strong imbalance:</p>
+  <ul>
+    <li>Services: <strong>63.4%</strong></li>
+    <li>Industry: <strong>26.2%</strong></li>
+    <li>Agriculture: <strong>10.4%</strong></li>
+  </ul>
+
+  <figure>
+    <img src="images/sector-share.png" alt="Sectoral shares of employment">
+    <figcaption>Figure 3: Sectoral Shares of Non-Vulnerable Employment</figcaption>
+  </figure>
+
+  <!-- Section -->
+  <h2>The Dominance of Self-Employment</h2>
+
+  <ul>
+    <li>Only about <strong>20% of workers</strong> are in paid employment</li>
+    <li>Roughly <strong>5% are employers</strong></li>
+    <li>More than <strong>two-thirds</strong> are own-account or family workers</li>
+  </ul>
+
+  <p>
+    These jobs are typically associated with low incomes and limited social protection.
+  </p>
+
+  <figure>
+    <img src="images/employment-status.png" alt="Status in employment by sex">
+    <figcaption>Figure 4: Status in Employment by Sex</figcaption>
+  </figure>
+
+  <!-- Section -->
+  <h2>A Stark Gender Divide</h2>
+
+  <ul>
+    <li>Over <strong>60% of women</strong> are own-account workers</li>
+    <li>Men dominate paid employment (<strong>29%</strong>) and employer roles (<strong>5.6%</strong>)</li>
+    <li>Women's vulnerable employment exceeds men's by <strong>20 percentage points</strong></li>
+  </ul>
+
+  <figure>
+    <img src="images/gender-gap.png" alt="Vulnerable employment by sex">
+    <figcaption>Figure 5: Vulnerable Employment by Sex</figcaption>
+  </figure>
+
+  <div class="highlight">
+    Women face significantly higher exposure to economic shocks due to concentration 
+    in vulnerable employment.
+  </div>
+
+  <!-- Section -->
+  <h2>Why This Matters</h2>
+
+  <ul>
+    <li>Youth unemployment exceeds <strong>22% (Q2 2024)</strong></li>
+    <li>Rising risk of underemployment among educated workers</li>
+    <li>Potential GDP gains of <strong>1–2%</strong> if employment gaps are addressed</li>
+  </ul>
+
+  <!-- Section -->
+  <h2>What Needs to Change</h2>
+
+  <h3>1. Align Education with Market Needs</h3>
+  <ul>
+    <li>Expand TVET and STEM training</li>
+    <li>Strengthen industry partnerships</li>
+  </ul>
+
+  <h3>2. Promote Productive Job Creation</h3>
+  <ul>
+    <li>Scale up YEA, NEIP, and 24‑Hour Economy initiatives</li>
+    <li>Invest in industrialisation and agro-processing</li>
+  </ul>
+
+  <h3>3. Formalise the Informal Sector</h3>
+  <ul>
+    <li>Support SMEs to expand and formalise</li>
+    <li>Improve access to finance</li>
+  </ul>
+
+  <h3>4. Close Gender Gaps</h3>
+  <ul>
+    <li>Support women’s entrepreneurship</li>
+    <li>Provide childcare and social support</li>
+  </ul>
+
+  <h3>5. Strengthen Labour Market Data Systems</h3>
+  <ul>
+    <li>Improve Labour Market Information Systems (LMIS)</li>
+  </ul>
+
+  <!-- Conclusion -->
+  <h2>Conclusion</h2>
+
+  <p>
+    Ghana’s increasing education levels present an opportunity for transformation, 
+    but current trends risk trapping talent in vulnerable employment.
+  </p>
+
+  <div class="highlight">
+    The path forward is clear: align skills with demand, create quality jobs, 
+    and ensure inclusion—especially for women.
+  </div>
+
+</body>
+</html>
