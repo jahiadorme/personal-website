@@ -97,7 +97,7 @@
   </p>
 
   <figure>
-    <img src="images/education-intensity.png" alt="Education intensity of labour force in Ghana">
+    <img src="images-education-intensity.png" alt="Education intensity of labour force in Ghana">
     <figcaption>Figure 1: Education Intensity of the Labour Force</figcaption>
   </figure>
 
@@ -109,7 +109,7 @@
   </p>
 
   <figure>
-    <img src="images/non-vulnerable.png" alt="Non-vulnerable employment trend">
+    <img src="images-non-vulnerable.png" alt="Non-vulnerable employment trend">
     <figcaption>Figure 2: Non-Vulnerable Employment</figcaption>
   </figure>
 
@@ -121,7 +121,7 @@
   </ul>
 
   <figure>
-    <img src="images/sector-share.png" alt="Sectoral shares of employment">
+    <img src="images-sector-share.png" alt="Sectoral shares of employment">
     <figcaption>Figure 3: Sectoral Shares of Non-Vulnerable Employment</figcaption>
   </figure>
 
@@ -139,7 +139,7 @@
   </p>
 
   <figure>
-    <img src="images/employment-status.png" alt="Status in employment by sex">
+    <img src="images-employment-status.png" alt="Status in employment by sex">
     <figcaption>Figure 4: Status in Employment by Sex</figcaption>
   </figure>
 
@@ -153,7 +153,7 @@
   </ul>
 
   <figure>
-    <img src="images/gender-gap.png" alt="Vulnerable employment by sex">
+    <img src="images-gender-gap.png" alt="Vulnerable employment by sex">
     <figcaption>Figure 5: Vulnerable Employment by Sex</figcaption>
   </figure>
 
